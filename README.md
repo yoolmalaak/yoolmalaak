@@ -2,9 +2,9 @@
 
 #### Design and Programming
 
-I'm Yool Malaak from South Sudan, and a third-year Civil Engineering student at [Kwame Nkrumah University of Science and Technology (KNUST)](https://www.knust.edu.gh/).  
+I'm Yool Malaak from South Sudan, and a third-year Civil Engineering student at [Kwame Nkrumah University of Science and Technology (KNUST)](https://www.knust.edu.gh/).I'm passionate about computer science and applying my skills to innovative projects that drive real-world impact. I'm excited to expand my knowledge and skills through the MIT Emerging Talent program.
 
-I'm passionate about computer science and applying my skills to innovative projects that drive real-world impact. I'm excited to expand my knowledge and skills through the MIT Emerging Talent program.
+<!-- I am keeping the "!" for fun -->
 
 ## Skills and Experience
 
