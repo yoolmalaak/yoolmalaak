@@ -1,10 +1,19 @@
-### Hi there 👋, I'm Yool Malaak
+# Hi there 👋, I'm Yool Malaak
 
-#### Design and Programming
+## About Me
 
-I'm Yool Malaak from South Sudan, and a third-year Civil Engineering student at [Kwame Nkrumah University of Science and Technology (KNUST)](https://www.knust.edu.gh/).I'm passionate about computer science and applying my skills to innovative projects that drive real-world impact. I'm excited to expand my knowledge and skills through the MIT Emerging Talent program.
+I'm Yool Malaak from South Sudan and a third-year student at
+  [Kwame Nkrumah University of Science and Technology (KNUST)](https://www.knust.edu.gh/),
+  pursuing a bachelors of Science in Civil Engineering.
 
-<!-- I am keeping the "!" for fun -->
+  ## Interest
+
+I'm passionate about computer science, data science, machine learning and web development.
+I am interested in advancing my programming skills and apply the knowledge and skills
+in executing innovative projects that drive real-world impact.
+I enjoy exploring new technologies, and opportunities to expand my knowledge,
+and collaborate with others to build innovative solutions.
+I'm privilege to continue my development through the MIT Emerging Talent program.
 
 ## Skills and Experience
 
@@ -13,5 +22,14 @@ I'm Yool Malaak from South Sudan, and a third-year Civil Engineering student at 
 🗼 AutoCAD
 
 💻 Python / HTML / CSS
+
+ GIT
+
+ Django
+
+### Let's get in touch
+
+Feel free to connect with me [LinkedIn](https://www.linkedin.com/in/yoolmalaak)
+Let's us connect and explore opportunities for collaboration
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoolmalaak)](https://github.com/anuraghazra/github-readme-stats)
