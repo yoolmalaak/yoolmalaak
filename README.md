@@ -9,7 +9,7 @@ I'm Yool Malaak from South Sudan and a third-year student at
   ## Interest
 
 I'm passionate about computer science, data science, machine learning and web development.
-I am driven to improve my programming expertise and leverage apply the knowledge
+I am driven to improve my programming expertise and leverage the abilities
 and skills in executing innovative projects that drive real-world impact.
 I enjoy exploring new technologies, and opportunities to expand my knowledge,
 and collaborate with others to build innovative solutions.
